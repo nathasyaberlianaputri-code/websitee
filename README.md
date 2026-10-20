@@ -1,5 +1,4 @@
-# Halo, saya [Nama Lengkap] 👋
-
+# WELCOME TO MY WEBSITE
 ### 👨‍💻 Tentang Saya
 - 🎓 Pendidikan: Mahasiswa / Lulusan [Jurusan / Universitas]
 - 💼 Fokus Bidang: Web Development / Data / Desain
